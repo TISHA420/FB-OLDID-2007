@@ -5,5 +5,3 @@
 ### https://github.com/TISHA420/FB-OLDID-2007.git
 ### cd FB-OLDID-2007
 ### python2 OLD-ID-CLONE.py
-# usarname : OLD
-# PASS     : IDCLONE
